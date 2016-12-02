@@ -1,0 +1,9 @@
+| | |
+| --------- | ----------------------------------- |
+| __Title__ | Software Design Overview |
+| __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
+| __Author__ | Kevin Gary |
+| __Mapping to Content Taxonomy__ | __SEEK:__ DES.con __CS2013:__ SE/Software Design/Overview of Design Paradigms |
+| __Abstract__ | This module introduces the innovation process and transition to concrete notions of design in engineering as a whole and software engineering in particular. |
+| __Size__ | __Preparation:__ 1 hour Reading <br/> __Preparation Quiz:__ 30 minutes <br/> __Discussion:__ 50 minutes <br/> __Practice:__ 2 hours 30 minutes |
+| __Comments__ | |

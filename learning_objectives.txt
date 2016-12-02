@@ -1,0 +1,2 @@
+  * Understand how to estimate the total number of defects for a project using the Capture-Recapture method.
+  * Know the importance of defect containment by understanding the play between defect injection and removal rates.

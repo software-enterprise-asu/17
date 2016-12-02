@@ -1,0 +1,5 @@
+  * READING: Introduction to Engineering Design [http://www.ck12.org/section/The-Design-Process/](http://www.ck12.org/section/The-Design-Process/) (accessed JUne 7, 2012).
+  * QUIZ:
+  	* IMS QTI 2.0 format [ZIP](/sites/default/files/CST315/fall2012/quiz/quiz-cst315_ser394_fall_2012-designOverview.zip)
+	* Moodle XML format [XML](/sites/default/files/CST315/fall2012/quiz/quiz-cst315_ser394_fall_2012-designOverview.xml)
+	* XHTML Format [HTML](/sites/default/files/CST315/fall2012/quiz/quiz-cst315_ser394_fall_2012-designOverview.html) 
